@@ -6,7 +6,6 @@ Find the YouTube tutorial here: https://www.youtube.com/watch?v=PFJNJQCU_lo
 
 ## Setup
 You need to add a file to the root of this project called "credentials.json". You can find a guide on how to do this in my YouTube tutorial above.
-
 Then run `npm install` to install dependencies.
 
 ## Run locally (port 1337)
